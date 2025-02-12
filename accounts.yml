@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Lolka ti zatrallena na raz heheh"
+  contactDetails:
+    name: "Liza - Developer"
+    location: "Seoul"
+  skills:
+    - python
+    - java
+
+  

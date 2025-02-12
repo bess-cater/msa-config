@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Lolka ti...testiruesh?"
+  contactDetails:
+    name: "Liza - QA Lead"
+    location: "Smolensk"
+  skills:
+    - python
+    - java
