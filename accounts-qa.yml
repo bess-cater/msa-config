@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Lolka ti...testiruesh?"
   contactDetails:
-    name: "Liza - the great!!! QA Lead"
+    name: "Liza - the great?????? QA Lead"
     location: "Smolensk"
   skills:
     - python
