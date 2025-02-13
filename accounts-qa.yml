@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Lolka ti...testiruesh?"
+  message: "Hey, is it not manual now? Are webhooks working?"
   contactDetails:
     name: "Liza - a humble QA Lead"
     location: "Smolensk"
