@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Lolka ti zatrallena na raz heheh"
   contactDetails:
-    name: "Liza - Developer"
+    name: "Liza - Developer!!!!"
     location: "{cipher}3a99b871f610686ef9127b041ce213ad964c28021b52f99a6f9f97ec6ceb3962"
   skills:
     - python
